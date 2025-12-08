@@ -1,0 +1,7 @@
+coefficient_curves.csv
+results.rds
+*.csv
+*.rds
+clustering_plots/
+__pycache__/
+.DS_Store
